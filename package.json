@@ -1,0 +1,19 @@
+{
+  "name": "clone_youtube",
+  "version": "1.0.0",
+  "description": "clone youtube",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seongjunhwang/clone_youtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seongjunhwang/clone_youtube/issues"
+  },
+  "homepage": "https://github.com/seongjunhwang/clone_youtube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
